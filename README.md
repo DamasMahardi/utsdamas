@@ -7,7 +7,7 @@ Nim	: 311610440
 
 Layout Portopolio
 
-mahardi.png
+
 
 
 Layout Contact
