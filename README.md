@@ -46,7 +46,7 @@ ss">
 			</ul>
 		</nav>
 		
-	</div>
+	
 <div><br>
 	<div>
 		<img src="Mahardi.jpg">
@@ -89,31 +89,6 @@ ss">
 
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
