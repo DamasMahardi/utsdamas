@@ -98,8 +98,7 @@ file contact.html
 <!DOCTYPE html>
 <html>
 <head>
-	
-	<!-- Google Fonts -->
+<!-- Google Fonts -->
 <link href="http://fonts.googleapis.com/css?
 family=Open+Sans:300italic,400italic,400,700,600"rel="stylesheet" type="te
 xt/css">
