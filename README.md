@@ -7,7 +7,7 @@ Kelas	: Ti.16.b3
 Nim	: 311610440
 
 Layout Portopolio
-<p align=center">
+<p align="center">
 <img src="https://github.com/DamasMahardi/utsdamas/blob/master/Screenshot-2018-7-4%20profile.png" width="450 height="300"/>
 </p><br>
 
@@ -22,7 +22,7 @@ Layout Contact
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>profile</title>
+	
 <!-- Google Fonts -->
 <link href="http://fonts.googleapis.com/css?
 family=Open+Sans:300italic,400italic,400,700,600"rel="stylesheet" type="te
@@ -123,7 +123,7 @@ file contact.html
 <!DOCTYPE html>
 <html>
 <head>
-	<title>contact</title>
+	
 	<!-- Google Fonts -->
 <link href="http://fonts.googleapis.com/css?
 family=Open+Sans:300italic,400italic,400,700,600"rel="stylesheet" type="te
@@ -143,11 +143,6 @@ ss">
 				<li class="active"><a href="contact.html" title="contact">contact</a></li>
 				<li><a href="portofolio.html" title="portofolio">portopolio</a></li>
 			</ul>
-
-		</nav>
-
-
-	</div>
 
 <div>
 	
